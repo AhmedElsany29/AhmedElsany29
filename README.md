@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AhmedElsany29/AhmedElsany29/blob/main/ai_image.png" alt="AI Image" width="600" />
+  <img src="https://github.com/AhmedElsany29/AhmedElsany29/blob/main/A_3D_scene_featuring_a_person_programming_in_front.png" alt="3D AI Programming Scene" width="600" />
 </div>
 
 
