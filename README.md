@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="https://github.com/AhmedElsany29/AhmedElsany29/blob/main/greeting.gif" alt="animated greeting" />
+  <img src="https://github.com/AhmedElsany29/AhmedElsany29/blob/main/ai_image.png" alt="AI Image" width="600" />
 </div>
 
 
