@@ -1,9 +1,9 @@
+<h2 align="center"> Hi 👋! My name is Ahmed ElSany</h2>
+<h2 align="CENTER">I'm a Junior Machine Learning Engineer </h2>
+
 <div align="center">
   <img src="https://github.com/AhmedElsany29/AhmedElsany29/blob/main/afe91ef5-867f-4845-bf66-081ae9071edd.webp" alt="3D AI Programming Scene" width="600" />
 </div>
-
-
-<h2 align="center">Nice to meet you 👋! My name is Ahmed ElSany</h2>
 
 ###
 
@@ -39,8 +39,16 @@
 ###
 
 <div align="center">
-  <a href="mailto:ahmedelsany12@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/ahmed-elsany-0a588a223"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-
-  <a href="https://www.kaggle.com/ahmedelsany"><img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo"  /></a>
+  <a href="mailto:ahmedelsany12@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/ahmed-elsany-0a588a223" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
+  </a>
+  
+  <a href="https://www.kaggle.com/ahmedelsany" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle logo" />
+  </a>
 </div>
+
