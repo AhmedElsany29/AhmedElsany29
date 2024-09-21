@@ -134,6 +134,7 @@ Improve the accuracy of autonomous driving systems.
 **Tools & Technologies:**  
 Python, Deep Learning, Computer Vision  
 
+---
 
 ## 🌀 **Neo-Hazard Prediction**  
 **Description:**  
