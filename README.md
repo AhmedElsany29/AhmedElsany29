@@ -6,7 +6,7 @@
 
 
 
-<img align="right" alt="MasterCard" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
+<img align="right" alt="MasterCard" width="350" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 
 - 📋 Check out My Resume at [**Resume**]([https://docs.google.com/document/d/1_1tkH33oggXdtNtLS1ek_hHgC8YEHGkb/edit?usp=sharing&ouid=114996828737559694387&rtpof=true&sd=true](https://drive.google.com/file/d/1dVe4Uh87FoR7PdmvI-cYf0QZLKEWDD82/view?usp=drive_link))
