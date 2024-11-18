@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedelsany29&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelsany29" /> </p>
 <h1 align="center">Hi 👋, I'm Ahmed ElSany</h1>
 <h3 align="center"> Junior Machine Learning Engineer</h3><div align="center">
-  <img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="Coding">
+<!--   <img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="Coding"> -->
 </div>
 
 
