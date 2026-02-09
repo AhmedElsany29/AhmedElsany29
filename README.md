@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedelsany29&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelsany29" /> </p>
 
-<img align="right" alt="MasterCard" width="350" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
-
 I am a Machine Learning Engineer skilled in Deep Learning, Computer Vision, and MLOps. I have experience in designing, training, and deploying ML models using TensorFlow and PyTorch. My strong record of delivering measurable results in healthcare, autonomous systems, and intelligent applications demonstrates my passion for learning new things.
 
 - 📋 Check out My Resume at [**Resume**](https://drive.google.com/file/d/1G9vRKBJr620R1c3cN6nCLRnG2t5Ecfkq/view?usp=sharing)
@@ -66,42 +64,27 @@ I am a Machine Learning Engineer skilled in Deep Learning, Computer Vision, and 
 
 ## 📊 Recent Projects
 
-### 🚦 Traffic Sign Detection
-**Description:** Detects traffic signs using computer vision for autonomous vehicles.  
-**Project Link:** [Traffic Sign Detection](https://github.com/AhmedElsany29/Traffic-Sign-Detection)  
-**Tools:** Python, DL, CV  
+*   **🚦 Traffic Sign Detection**
+    *   **Description:** Detects traffic signs using computer vision for autonomous vehicles.
+    *   **Project Link:** [Traffic Sign Detection](https://github.com/AhmedElsany29/Traffic-Sign-Detection)
+    *   **Tools:** Python, DL, CV
 
-### 🌀 Neo-Hazard Prediction
-**Description:** Predicts natural hazards using ML to enhance preparedness.  
-**Project Link:** [Neo-Hazard Prediction](https://github.com/AhmedElsany29/Neo-Hazard-Prediction)  
-**Tools:** Python, ML, Data Analytics  
+*   **🌀 Neo-Hazard Prediction**
+    *   **Description:** Predicts natural hazards using ML to enhance preparedness.
+    *   **Project Link:** [Neo-Hazard Prediction](https://github.com/AhmedElsany29/Neo-Hazard-Prediction)
+    *   **Tools:** Python, ML, Data Analytics
 
-### 🍃 Potato Leaf Disease Prediction
-**Description:** Classifies potato leaf diseases to help farmers detect early.  
-**Project Link:** [Potato Leaf Disease Prediction](https://github.com/AhmedElsany29/Potato-Leaf-Disease-Prediction)  
-**Tools:** Python, ML, Image Processing  
+*   **🍃 Potato Leaf Disease Prediction**
+    *   **Description:** Classifies potato leaf diseases to help farmers detect early.
+    *   **Project Link:** [Potato Leaf Disease Prediction](https://github.com/AhmedElsany29/Potato-Leaf-Disease-Prediction)
+    *   **Tools:** Python, ML, Image Processing
 
-### 🛍️ Mall Customers - K-means Clustering
-**Description:** Segments customers for marketing strategies using K-means.  
-**Project Link:** [Mall Customers - K-means Clustering](https://github.com/AhmedElsany29/Mall_Customers-K-means-clustering-)  
-**Tools:** Python, K-means, Data Analytics  
+*   **🛍️ Mall Customers - K-means Clustering**
+    *   **Description:** Segments customers for marketing strategies using K-means.
+    *   **Project Link:** [Mall Customers - K-means Clustering](https://github.com/AhmedElsany29/Mall_Customers-K-means-clustering-)
+    *   **Tools:** Python, K-means, Data Analytics
 
-### 🗣️ Arabic Sentiment Analysis
-**Description:** Classifies Arabic text sentiment using NLP techniques.  
-**Project Link:** [Arabic Sentiment Analysis](https://github.com/AhmedElsany29/Arabic-Sentiment-Analysis)  
-**Tools:** Python, NLP, ML  
-
-### 🤖 Rattel (Audio & NLP)
-**Description:** Quran reciter recognition app using NLP & deep learning for audio.  
-**Project Link:** [Rattel (Audio & NLP)](https://github.com/AhmedElsany29/Rattel)  
-**Tools:** Python, DL, NLP  
-
-### 💻 VisionAI-Insight
-**Description:** Web app for image analysis with multiple AI models.  
-**Project Link:** [VisionAI-Insight](https://github.com/AhmedElsany29/VisionAI-Insight)  
-**Tools:** Python, Flask, DL, CV  
-
-### ⚡ YOLO-Based Car Detection
-**Description:** Detects vehicles in images/videos using YOLOv8.  
-**Project Link:** [YOLO-Based Car Detection](https://github.com/AhmedElsany29/YOLO-Car-Detection)  
-**Tools:** Python, DL, CV  
+*   **⚡ YOLO-Based Car Detection**
+    *   **Description:** Detects vehicles in images/videos using YOLOv8.
+    *   **Project Link:** [YOLO-Based Car Detection](https://github.com/AhmedElsany29/YOLO-Car-Detection)
+    *   **Tools:** Python, DL, CV
